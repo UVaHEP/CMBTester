@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace CMBTester
 {
-    public partial class Form1 : Form
+    public partial class BNCPulser : Form
     {
-        public Form1()
+        public BNCPulser()
         {
             InitializeComponent();
         }
